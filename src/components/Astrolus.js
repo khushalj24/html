@@ -54,12 +54,12 @@ export default function Astrolus() {
                 </div>
         </div>
         <div className='ftimmg'>
-             <img  src="../img/microsoft.png" alt='microsoft'/> 
-             <img  src="../img/airbnb.png" alt='microsoft'/> 
-             <img  src="../img/google.png" alt='microsoft'/> 
-             <img  src="../img/ge.png" className='geimg' alt='microsoft'/> 
-             <img  src="../img/netflix.png" alt='microsoft'/>
-             <img  src="../img/google cloud.png" alt='microsoft'/>  
+             <img  src="./html/img/microsoft.png" alt='microsoft'/> 
+             <img  src="./html/img/airbnb.png" alt='airbnb'/> 
+             <img  src="./html/img/google.png" alt='google'/> 
+             <img  src="./html/img/ge.png" className='geimg' alt='ge'/> 
+             <img  src="./html/img/netflix.png" alt='netflix'/>
+             <img  src="./html/img/google cloud.png" alt='googlecloud'/>  
         </div>
       
     </div>

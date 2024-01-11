@@ -7,7 +7,7 @@ export default function City(props) {
   return (
     <div className='worcity shadow'>
         <div className='cityimg'>
-         <img  src={props.ctyimg} alt='tuscany'/>
+         <img  src={props.ctyimg} alt='paris'/>
         </div>
         <div className='cityinfo'>
             <div className='cityinfo-1'>

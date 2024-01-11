@@ -17,7 +17,7 @@ export default function Travel() {
                         <div className='nvv-1'>
                             <div className='nvv-11'>
                                 <div>
-                                    <img src="../img/un.png" alt='un' className='nv1img' />
+                                    <img src="./html/img/un.png" alt='un' className='nv1img' />
                                 </div>
                                 <h6>United States</h6>
                             </div>
@@ -172,24 +172,24 @@ export default function Travel() {
                           <div className='grendash'></div>
                      </div>
                      <div className='worldgrid'>
-                           <City city="Tuscany" con="Italy" ctyimg="../img/tuscany.jfif" 
+                           <City city="Tuscany" con="Italy" ctyimg="./html/img/tuscany.jfif" 
                              descrip="Tuscany is best known for its rolling hills, which are populated by golden vineyards and can often be found on postcards and prints of Italy. Other famous sights to see in Tuscany include its many medieval hilltop towns, its capital city of Florence (known as Firenze in Italian), and its rich red Chianti wines."
                            />
 
 
-                           <City city="Paris" con="France" ctyimg="../img/paris.jfif"
+                           <City city="Paris" con="France" ctyimg="./html/img/paris.jfif"
                              descrip="Paris is known worldwide for the Louvre Museum, Notre-Dame cathedral, and the Eiffel tower. It has a reputation of being a romantic and cultural city. The city is also known for its high-quality gastronomy and the terraces of its cafés.widely known as “the city of love”."
                            />
 
 
-                           <City city="San Francisco" con="USA" ctyimg="../img/sanfransico.jfif"
+                           <City city="San Francisco" con="USA" ctyimg="./html/img/sanfransico.jfif"
                              descrip="San Francisco is a city in the state of California in the United States. It is in the northern part of California, between the Pacific Ocean and San Francisco Bay. San Francisco is the 4th largest city in California and the 17th largest city in the United States."
                            />
 
 
                            <City city="Melbourne" con="Australia"
                            
-                            ctyimg="../img/melbourne.jfif"
+                            ctyimg="./html/img/melbourne.jfif"
                              descrip="Melbourne is the capital of the Australian state of Victoria, and the second-most populous city in Australia. Melbourne, has being crowned has the “World's Most Liveable City”. Melbourne  offers an awesome arts and culture scene, first-rate universities and an easy lifestyle. "
                            />
                      </div>
