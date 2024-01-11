@@ -1,0 +1,437 @@
+
+@media screen and (max-width:412px){
+
+     /* Travel Part */
+
+.nvv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: rgb(73, 173, 15);
+    padding: 10px 10px;
+    width: 100%;
+  }
+  
+  .nvv-1{
+    display: flex;
+    gap: 50px;
+  }
+  
+  .nv1img{
+    width: 80px;
+    
+  }
+  
+  .nvv-11{
+    display: flex;
+    
+  }
+  
+  .downarw{
+    font-size: 35px;
+    color: white;
+    position: relative;
+     bottom: 5px;
+     right: -10px;
+  }
+  
+  .callemoji{
+   color: white;
+   position: relative;
+   font-size: 18px;
+   bottom: -2px;
+  }
+  
+  .mailemoji{
+    color: white;
+    position: relative;
+    font-size: 23px;
+    bottom: -2px;
+  
+  }
+  
+  .nvv-11 h6{
+    font-size: 20px;
+    color: white;
+    margin-left: 8px;
+  }
+  
+  .nvv-12{
+    display: flex;
+  }
+  
+  .nvv-12 h6{
+    margin-left: 8px;
+    font-size: 20px;
+    color: white;
+  }
+
+  .nvv-2{
+    margin-top: 20px;
+  }
+  
+  .nvv-21 {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+  
+  .middpart{
+    height: auto;
+    background-image: url("../public/img/venice.jfif");
+    background-repeat: no-repeat ;
+    background-size: cover;
+    width: 412px;
+   
+  
+  }
+  
+    .middpart-1{
+    height: auto;
+     background-color: #00000060; 
+    padding: 0px 0px;
+    width: 412px;
+  }  
+  
+  .middnav{
+    display:flex;
+    flex-direction: column;
+    gap: 36px;
+    /* border: 2px solid rgb(236, 11, 41); */
+    width: fit-content;
+    padding: 10px 10px;
+  
+   
+  }
+  
+  .middnav-1 h1{
+    color: rgb(255, 255, 255);
+    margin-left: 103px;
+    font-size: 48px;
+  }
+  
+   .middnav-2{
+    /* border: 2px solid black; */
+    margin-left: 90px;
+  } 
+  
+   .middnav-2 ul{
+    display: flex;
+    flex-direction: column;
+   }
+
+
+  .middnav-2 li{
+    list-style-type: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-bottom: 7px;
+  }
+  
+  .middnav-2 li:hover{
+    color: rgb(73, 173, 15);
+    text-decoration-line: underline;
+    text-decoration-color:  rgb(73, 173, 15);
+    
+  }
+  
+  .middnav-3{
+    display: flex;
+    gap: 100px;
+    margin-left: 100px;
+  }
+  
+  .emoji-person{
+    color: white;
+    font-size: 25px;
+  }
+  
+  .centerpart{
+     /* border: 2px solid red;  */
+    margin-top: 10px;
+    position: relative;
+  }
+  
+  .centerr-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding-bottom: 15px;
+    
+  }
+  
+  .centerr-1 h2{
+     color: white;
+     font-style: italic;
+     font-size: 50px;
+     width: fit-content;
+     text-align: center;
+  
+  }
+  
+  .centerr-2{
+    color: white;
+    display: flex;
+    gap: 15px;
+  }
+  
+  .leftarrw{
+    font-size: 22px;
+    color: rgb(73, 173, 15);
+    margin-top: 150px;
+    margin-left: 10px;
+  }
+
+  .rightarrw{
+    font-size: 22px;
+    color: rgb(73, 173, 15);
+    margin-top: 150px;
+    margin-right: 10px;
+  }
+  
+  .centerr-3{
+    /* border: 2px solid rgb(133, 16, 16); */
+    margin-top: 46px;
+    margin-left: 34px;
+    color: white;
+    display:flex;
+    gap:20px;
+  }
+  
+  .readmore{
+    background-color: white;
+    border-radius: 0px;
+    color: rgb(73, 173, 15);
+    margin-left: 5px;
+    font-size: large;
+    font-weight: bolder;
+    height: 40px;
+    width: 150px;
+  }
+  
+  .greenpart{
+    height: 100px;
+    background-color:rgb(73, 173, 15);
+    width: 100%;
+  }
+
+  .travolmain{
+    width: 412px;
+    height: auto;
+  }
+
+ .travolpg{
+    /* border: 1px solid rgb(231, 7, 7); */
+    width: 100%;
+   position: relative;
+ }
+ 
+ .whitediv{
+   /* border: 2px solid black; */
+    margin: -87px 0px; 
+   position : absolute;
+   /* bottom: 28px; */
+   height: 355px;
+   width: 100%;
+   background-color: white;
+   padding: 3px 3px;
+ 
+ }
+ 
+ .whitediv h4{
+   color: rgb(73, 173, 15) ;
+ }
+ 
+ .destdiv{
+   /* border: 2px solid black; */
+   padding: 4px 2px;
+   display: flex;
+   flex-direction: column;
+   gap: 5px;
+ }
+ 
+ .destdiv-1{
+   /* border: 2px solid black; */
+   width: 400px;
+   padding: 5px 5px ;
+   display:flex ;
+   flex-direction: column;
+   gap: 6px;
+ }
+ 
+ .destdiv-1input{  
+    border-color: rgb(73, 173, 15)!important;
+    border-top: 2px solid rgb(73, 173, 15);
+    border-left: 2px solid rgb(73, 173, 15);
+    width: 387px;
+    height: 40px;
+    padding: 3px 10px;
+ }
+ 
+ .searchbtn{
+    background-color: black;
+    color: white;
+    margin-top: 0px;
+    margin-left: 72px;
+    border-radius: 0px;
+    width: 236px;
+    height: 43px;
+ }
+ 
+ .filterdiv{
+   width: 412px;
+   height: 600px;
+   position: relative;
+   overflow: hidden;
+   margin-top: 268px ;
+  
+ }
+ 
+ .fill-1{
+   border: 2px solid black;
+   width: fit-content;
+   height: auto;
+   margin-left: 136px;
+   background-color: black;
+   color: white;
+ }
+ 
+ .fill-2{
+   width: 368px;
+   height: auto;
+   margin-left: 12px;
+   margin-right: 2px;
+   display: flex;
+   flex-direction: column;
+   gap: 15px;
+   padding: 15px 15px ;
+  
+ }
+ 
+ .worldpg{
+   /* border: 2px solid black; */
+   position: relative;
+   height: fit-content;
+   width: 412px;
+   margin-top: 5px;
+ }
+ 
+ .worldpackage{
+  margin-top: 2px;
+  margin-left: 87px;
+ }
+ 
+ .grendash{
+   height: 6px;
+   width: 100px;
+   background-color: green;
+   margin-left: 63px;
+   position: relative;
+   top:-10px;
+ }
+ 
+ .worldgrid{
+   /* border: 2px solid black; */
+   margin: 2px 0px ;
+   padding: 2px 1px;
+   width: 412px;
+   height: auto;
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+ }
+ 
+ /* city part */
+ 
+ .worcity{
+   /* border: 2px solid black; */
+   width: 408px;
+   height:auto;
+   display: flex;
+   flex-direction: column;
+   gap:10px;
+   padding : 5px 5px ;
+   margin: 2px 2px;
+ }
+ 
+ /* .cityimg{
+    border: 2px solid goldenrod; 
+ 
+ } */
+ 
+ .cityimg img{
+   width: 100%;
+   height: 100%;
+ }
+ 
+ /* .cityinfo{
+   border: 2px solid goldenrod; 
+  
+ } */
+ 
+ .cityinfo-1{
+    /* border: 2px solid gold;  */
+   display: flex;
+   justify-content: space-between;
+  
+ }
+ .ctytitle{
+   /* border: 2px solid greenyellow; */
+   width: fit-content;
+ 
+ }
+ .loctt{
+   color: rgb(73, 173, 15);
+ }
+ 
+ .ctyprice{
+   /* border: 2px solid gold; */
+   width:fit-content ;
+  
+ }
+ 
+ .dollardiv{
+   display: flex;
+   position: relative;
+   bottom: 11px;
+ 
+ }
+ 
+ .dollarsign{
+  position: relative;
+  top: 6px;
+ }
+ 
+ .ctyprice-h5{
+   color:rgb(73, 173, 15) ;
+ }
+ 
+ .ctytitle-loct{
+   position: relative;
+   bottom: 10px;
+ }
+ 
+ .cityinfo-2{
+  /* border: 2px solid red; */
+  margin-top: 5px;
+  margin-bottom: 5px;
+  height: 163px;
+ }
+ 
+ .cityinfo-3{
+   /* border: 2px solid greenyellow; */
+   margin-top: 5px;
+   margin-bottom: 5px;
+     display: flex;
+    justify-content: space-between; 
+  }
+ 
+  .bookbtn{
+     background-color: black;
+     color: white;
+     width: 110px;
+  }
+}

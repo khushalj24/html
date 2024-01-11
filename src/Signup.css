@@ -1,0 +1,129 @@
+
+@media screen and (max-width:412px){
+    
+    
+ /* Signup */
+
+ 
+/* signup form */
+
+.signupform-main{
+    background-color: black;
+    padding: 0px 0px;
+    height: auto;
+    width: 412px;
+  
+   }
+   
+   .signupform{
+     border: 2px solid white;
+     height: auto;
+     width: 412px;
+     background-image: url('../public/img/valleybg.jpg');
+    
+   }
+   
+   .signupform-1{
+     height: auto;
+     width: 407px;
+     background-color: #00000099;
+     padding-top: 3px;
+     padding-left: 0px;
+     
+   
+   }
+   
+   .flatsign{
+      color: white;
+       /* border: 2px solid white;  */
+      width: 353px;
+      height: auto;
+      margin-left: 28px;
+      
+   
+   }
+   
+   .flatsign h6{
+     font-size: 38px;
+     font-weight: 100;
+   }
+   
+   .signup-main{
+     /* border: 2px solid rgb(201, 25, 25); */
+     background-color: rgba(241, 85, 241, 0.486);
+     margin-top: 0px;
+     margin-left: 0px;
+     height: auto;
+     width: 406px;
+     
+   }
+   
+   .signup-text{
+     margin-top: 1px;
+     margin-left: 130px;
+     padding-top: 10px;
+  
+     width: fit-content;
+     height: auto;
+    
+   }
+   
+   .signup-text h2{
+     color: white;
+     font-weight: 200;
+   }
+   
+   .logoinput-maindiv{
+     /* border: 2px solid red; */
+     height: auto;
+     width: 384px;
+     margin-top: 10px;
+     margin-left:10px ;
+     margin-right:0px ;
+     padding: 1px ;
+  
+   }
+   
+   
+   
+   .logoinput-div{
+     position: relative;
+     border: 2px solid white;
+     width: 376px;
+     height: auto;
+     background-color: white;
+    
+   }
+   
+   .logosss{
+     background-color: white;
+     position:absolute;
+     top: 6px;
+     left: 4px;
+     font-size: 21px;
+   }
+   
+   .logssinput{
+     padding-left: 35px;
+     width: 374px;
+     height: 40px;
+     border: 0px;
+   }
+   
+   .signupbutton-div{
+     margin-top: 38px; 
+     margin-left: 135px;
+     padding-bottom: 30px;
+     width: fit-content;
+     height: auto;
+   }
+   
+   .signupbutton{
+     height: 50px;
+     width: 120px;
+     background-color: rgb(243, 19, 232);
+     border: 0px;
+   }
+
+
+}

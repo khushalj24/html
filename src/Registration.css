@@ -1,0 +1,92 @@
+
+@media screen and (max-width:412px){
+
+     /* Registration */
+
+.outdiv{
+    background: rgb(58,183,254);
+    background: linear-gradient(156deg, rgba(58,183,254,1) 14%, rgba(177,113,224,1) 52%);
+    height: auto;
+    width: 412px;
+    padding: 0px 0px;
+    overflow-x: hidden;
+  }
+  
+  .inpdiv{
+       border: 5px solid rgb(182, 178, 178);
+       border-radius: 15px;
+       margin: 0px 0px;
+       height: auto;
+       width: 408px;
+       background-color: whitesmoke;
+  }
+  
+  .underdiv{
+    background: rgb(58,183,254);
+    background: linear-gradient(156deg, rgba(58,183,254,1) 14%, rgba(177,113,224,1) 52%);
+    height: 3px;
+    width: 36px;
+  }
+
+  .registerdiv{
+    padding: 10px 10px;
+  }
+  
+  
+  .inputdiv{
+     /* border: 2px solid rgb(185, 184, 184);  */
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding: 10px 10px;
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+    height: auto;
+    width: 350px;
+  }
+  
+  .gendertitle{
+    margin-top: 35px;
+    margin-left: 16px;
+    width: 360px;
+    height: auto;
+    /* border: 2px solid black; */
+  }
+  
+  .genderdiv{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 350px;
+    height: auto;
+  }
+  
+  .btndiv{
+    margin-top: 40px;
+    width:350px;
+    height: auto;
+    margin-left: 20px;
+    /* border: 2px solid black; */
+  }
+  
+  .buttn{
+    width: 335px;
+    height: 50px;
+    border: 0px;
+    background: rgb(58,183,254);
+    background: linear-gradient(156deg, rgba(58,183,254,1) 14%, rgba(177,113,224,1) 52%);
+    font-size: 28px ;
+    color: whitesmoke;
+  }
+  
+  .form-control{
+    height: 50px;
+    width: 368px;  
+    box-shadow: 0px 0px rgb(196, 193, 193);
+  }
+  
+  .inputdiv input{
+    border-bottom: 2px solid rgb(160, 157, 157);
+  }
+  
+}
