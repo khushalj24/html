@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/html/static/css/main.ec228481.css",
+    "main.js": "/html/static/js/main.b8d35f33.js",
+    "static/js/787.e49df0f8.chunk.js": "/html/static/js/787.e49df0f8.chunk.js",
+    "static/media/valleybg.jpg": "/html/static/media/valleybg.a64bb4b6ebb71832d824.jpg",
+    "static/media/venice.jfif": "/html/static/media/venice.454a69b12854c8b8bc83.jfif",
+    "index.html": "/html/index.html",
+    "main.ec228481.css.map": "/html/static/css/main.ec228481.css.map",
+    "main.b8d35f33.js.map": "/html/static/js/main.b8d35f33.js.map",
+    "787.e49df0f8.chunk.js.map": "/html/static/js/787.e49df0f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec228481.css",
+    "static/js/main.b8d35f33.js"
+  ]
+}
